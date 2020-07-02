@@ -5,6 +5,5 @@ Getting to grips with Node.js and the openlayers API for creating interactive ma
 Node.js  
 npm    
 Javascript  
-HTML  
-CSS  
+HTML   
 APIs - openlayers https://github.com/openlayers/openlayers 
